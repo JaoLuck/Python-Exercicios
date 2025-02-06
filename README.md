@@ -11,3 +11,14 @@ Uma lista de pares de hashes (hash calculado e hash esperado), separados por ví
 
 ### Saida
 Para cada par de hashes fornecido, o código imprime o resultado "Correto" ou "Inválido".
+
+## Desafio 2
+
+### Descrição
+Desenvolva um sistema que simule a enumeração de serviços em um servidor, dado um conjunto de portas e serviços associados. Você deve receber uma lista de números de portas e, para cada porta, retornar o serviço associado. Se a porta não estiver no dicionário, retorna "Desconhecido".
+
+### Entrada
+Uma lista de números de portas separados por vírgulas
+
+### Saída 
+Uma lista de serviços correspondentes a essas portas
